@@ -1,0 +1,6 @@
+[package]
+name = "digit_power_compress"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
